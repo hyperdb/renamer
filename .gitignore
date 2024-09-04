@@ -3,5 +3,6 @@
 .vscode
 src/*.*
 dist/*.*
+watermarked/*.*
 !.gitkeep
 
